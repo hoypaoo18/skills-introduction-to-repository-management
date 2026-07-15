@@ -4,4 +4,4 @@
 /src/backend/routers/auth.py  @hoypaoo18
 
 # The frontend will need refactored soon to be more object oriented.
-/src/static/   @hoypaoo18
+/src/static/                  @hoypaoo18
